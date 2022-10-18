@@ -30,7 +30,7 @@
   "homepage": "https://github.com/andatoshiki/yrm",
   "dependencies": {
     "async": "^3.2.4",
-    "commander": "^2.9.0",
+    "commander": "^9.4.1",
     "extend": "^3.0.0",
     "ini": "^3.0.1",
     "node-echo": "^0.1.1",
