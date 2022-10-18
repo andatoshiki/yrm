@@ -10,7 +10,7 @@
     "url": "git://github.com/andatoshiki/yrm.git"
   },
   "scripts": {
-    "start": "npm star yrm"
+    "star": "npm star yrm"
   },
   "keywords": [
     "NPM",
