@@ -1,6 +1,6 @@
 {
   "name": "@andatoshiki/yrm",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "description": "❤️ Toshiki's own NPM registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
   "bin": {
     "yrm": "./cli.js"
