@@ -1,0 +1,42 @@
+{
+  "name": "@andatoshiki/yrm",
+  "version": "0.0.1",
+  "description": "❤️ Toshiki's own NPM registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
+  "bin": {
+    "yrm": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andatoshiki/yrm.git"
+  },
+  "scripts": {
+    "start": "npm star yrm"
+  },
+  "keywords": [
+    "NPM",
+    "registry",
+    "andatoshiki",
+    "cnpm",
+    "yarn",
+    "pnpm",
+    "yrm",
+    "manager"
+  ],
+  "author": "Anda Toshiki <andatoshiki@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andatoshiki/yrm/issues"
+  },
+  "homepage": "https://github.com/andatoshiki/yrm",
+  "dependencies": {
+    "async": "^1.5.2",
+    "commander": "^2.9.0",
+    "extend": "^3.0.0",
+    "ini": "^1.1.0",
+    "node-echo": "^0.1.1",
+    "npm": "^3.10.3",
+    "only": "0.0.2",
+    "open": "0.0.5",
+    "request": "^2.72.0"
+  }
+}
